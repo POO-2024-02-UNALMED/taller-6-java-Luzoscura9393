@@ -1,4 +1,4 @@
-package Vehiculos;
+package vehiculos;
 
 public class Fabricante {
 	private String nombre;
@@ -16,5 +16,4 @@ public class Fabricante {
 	Pais getPais() {
 		return this.pais;
 	}
-	
 }
