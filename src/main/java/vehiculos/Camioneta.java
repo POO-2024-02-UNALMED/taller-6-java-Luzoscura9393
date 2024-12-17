@@ -24,7 +24,7 @@ public class Camioneta extends Vehiculo {
 		return this.traccion;
 	}
 	
-	boolean isVolco() {
+	public boolean isVolco() {
 		return this.volco;
 	}
 	

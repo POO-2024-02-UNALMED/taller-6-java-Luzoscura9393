@@ -9,11 +9,11 @@ public class Fabricante {
 		this.pais = pais;
 	}
 	
-	String getNombre() {
+	public String getNombre() {
 		return this.nombre;
 	}
 	
-	Pais getPais() {
+	public Pais getPais() {
 		return this.pais;
 	}
 }

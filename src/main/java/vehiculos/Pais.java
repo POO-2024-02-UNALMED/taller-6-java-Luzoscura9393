@@ -7,7 +7,7 @@ public class Pais {
 		this.nombre = nombre;
 	}
 	
-	String getNombre(String nombre) {
+	public String getNombre() {
 		return this.nombre;
 	}
 }
