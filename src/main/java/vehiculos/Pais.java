@@ -1,7 +1,6 @@
 package vehiculos;
 
 public class Pais {
-
 	private String nombre;
 	
 	Pais(String nombre){
@@ -11,5 +10,4 @@ public class Pais {
 	String getNombre(String nombre) {
 		return this.nombre;
 	}
-	
 }
